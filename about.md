@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second year student at Aberystwyth University
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog contains information and daily updates on the CS22120 software engineering group project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+lul12@aber.ac.uk
